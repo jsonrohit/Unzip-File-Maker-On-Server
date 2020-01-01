@@ -4,7 +4,8 @@
 
 2. Run Your Browser[unzip.php].
 Exmaple-> 
-Your Domain Name www.exmple.com/[Unzip File Name] 
+Your Domain Name www.exmple.com/[Unzip File Name].
+
 3.And Hit Enter.
 
 3.Select your zip File You Want Make Unzip.And Enter. 
