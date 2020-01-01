@@ -12,6 +12,8 @@ Your Domain Name www.exmple.com/[Unzip File Name].
 
 #Zip File Make
 
-1,2,3 Step Same of Unzip File Maker.
+1,2,3 Step Same Previous.
+
 4.Chose Zip Maker Option.
+
 5.Hit Enter.
